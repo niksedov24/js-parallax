@@ -48,7 +48,7 @@ body {
 }
 .layers__item{
     position: absolute;
-    inset: -5vh;
+    inset: -15vh;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
